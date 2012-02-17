@@ -8,19 +8,19 @@ Install
 -------
 
 Clone the project
-    git clone git://github.com/josemarluedke/SinatraStructure.git MyApp
+  `git clone git://github.com/josemarluedke/SinatraStructure.git MyApp`
 
 Enter in your app folder
-    cd MyApp
+  `cd MyApp`
 
 Install dependencies
-    bundle install
+  `bundle install`
 
 Run the tests
-    rake spec
+  `rake spec`
 
 Start the Server
-    shotgun
+  `shotgun`
 
 
 By
